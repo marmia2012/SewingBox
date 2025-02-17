@@ -1,3 +1,4 @@
+
 # Funicular-Switch challenge
 
 Welcome!
